@@ -1,0 +1,11 @@
+$movie = "Indiana Jones and the Last Crusade";
+echo $movie ;
+
+$viewed = "false";
+echo $viewed ;
+
+$releaseYear = "1989";
+echo $releaseYear ;
+
+$rated = "8.2";
+echo $releaseYear;
